@@ -1,18 +1,25 @@
 ### Hello there 👋 I'm Everton Sávio S. Lucas, I'm from Brazil.
 
-#### I'm passionate for solving data-driven problemns :bar_chart:.
+#### I'm passionate for solving data-driven problemns :bar_chart: and I like working with I4.0 technologies in general.
 
 ### My skills include
 
 <p align="left">
-	<img title="Python" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/python.svg" width="40" height="40" />
+	<img title="Python" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/python.svg" width="40" height="40" /> &nbsp
 <img title="Flask" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/flask.png" width="40" height="40" />
-<img title="JavaScript" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/js.png" width="40" height="40" />
-<img title="React.js" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/react.png" width="60" height="40" />
-	<img title="Git" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/git.svg" width="70" height="40" />
-	<img title="AWS" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/aws.svg" width="60" height="40" />
-	<img title="linux" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/linux-tux.svg" width="40" />
+&nbsp
 	<img title="Spark" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/apache_spark.svg" width="80" height="40" />
+&nbsp
+<img title="JavaScript" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/js.png" width="40" height="40" />
+&nbsp
+<img title="React.js" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/react.png" width="60" height="40" />
+&nbsp
+	<img title="Git" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/git.svg" width="70" height="40" />
+&nbsp
+	<img title="AWS" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/aws.svg" width="60" height="40" />
+&nbsp
+	<img title="linux" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/linux-tux.svg" width="40" />
+
 </p>
     
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
