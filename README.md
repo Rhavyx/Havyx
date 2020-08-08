@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Everton Sávio S. Lucas and I'm from Brazil.
+### Hello there 👋! I'm Sávio and I'm from Brazil.
 
 #### I'm passionate for solving data-driven problems :bar_chart: and I like working with I4.0 technologies in general.
 
