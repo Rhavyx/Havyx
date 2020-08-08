@@ -6,9 +6,9 @@
 
 <p align="left">
 	<img title="Python" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/python.svg" width="40" height="40" />
-<img title="Flask" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/flask.svg" width="40" height="40" />
+<img title="Flask" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/flask.png" width="40" height="40" />
 <img title="JavaScript" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/js.png" width="40" height="40" />
-<img title="React.js" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/react.png" width="40" height="40" />
+<img title="React.js" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/react.png" width="60" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/git.svg" width="70" height="40" />
 	<img title="AWS" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/aws.svg" width="60" height="40" />
 	<img title="linux" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/linux-tux.svg" width="40" />
