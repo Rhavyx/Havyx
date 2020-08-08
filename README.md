@@ -2,6 +2,8 @@
 
 #### I'm passionate for solving data-driven problemns :bar_chart: and I like working with I4.0 technologies in general.
 
+#### Some information of projects that I participated actively in development can be found on my website: https://evertonsavio.dev
+
 ### My skills include
 
 <p align="left">
