@@ -2,7 +2,7 @@
 
 #### I'm passionate for solving data-driven problemns :bar_chart: and I like working with I4.0 technologies in general.
 
-#### Some information of Data Science projects that I participated actively in development can be found on my website: <a href=https://evertonsavio.dev target="_blank">evertonsavio.dev</a>
+#### Some information of data science projects that I participated actively in development can be found on my website: <a href=https://evertonsavio.dev target="_blank">evertonsavio.dev</a>
 
 ### My skills include:
 
