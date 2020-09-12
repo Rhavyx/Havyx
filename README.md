@@ -23,19 +23,20 @@
 	<img title="linux" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/linux-tux.svg" width="40" />
 
 </p>
-   
-<hr \>
-<br>
-<p align="center">
-    <a href="https://www.linkedin.com/in/evertonsavio/" target="blank"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="https://twitter.com/eversavio" target="blank"><img alt="Twitter" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
-</p>
+
+
 <hr \>
 <p align="center">
    <i>"All models are wrong, but some are useful."</i>
    <br>
    <i>George E. P. Box</i>
 </p>       
+
+<br>
+<p align="center">
+    <a href="https://www.linkedin.com/in/evertonsavio/" target="blank"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/linkedin.svg" width="100" height="30" /></a>
+    <a href="https://twitter.com/eversavio" target="blank"><img alt="Twitter" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
+</p>
  
   
  
