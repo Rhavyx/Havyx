@@ -24,6 +24,7 @@
 
 </p>
    
+<hr \>
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/evertonsavio/" target="blank"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/linkedin.svg" width="100" height="30" /></a>
