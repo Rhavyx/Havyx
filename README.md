@@ -23,8 +23,6 @@
 	<img title="linux" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/linux-tux.svg" width="40" />
 
 </p>
-    
-**If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
    
 <br>
 <p align="center">
