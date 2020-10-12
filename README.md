@@ -27,9 +27,9 @@
 
 <hr \>
 <p align="center">
-   <i>"All models are wrong, but some are useful."</i>
+   <i>"You can never understand everything. But, you should push yourself to understand the system"</i>
    <br>
-   <i>George E. P. Box</i>
+   <i>Ryan Dahl</i>
 </p>       
 
 <br>
