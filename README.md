@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=havyx&show_icons=true&count_private=true&hide=jupyter-notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr \>
 <p align="center">
    <i>"You can never understand everything. But, you should push yourself to understand the system"</i>
