@@ -1,4 +1,4 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=havyx)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr \>
 <p align="center">
    <i>"You can never understand everything. But, you should push yourself to understand the system"</i>
