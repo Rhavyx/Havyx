@@ -8,8 +8,8 @@
 
 <br>
 <p align="center">
-    <a href="https://www.linkedin.com/in/evertonsavio/" target="blank"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="https://twitter.com/eversavio" target="blank"><img alt="Twitter" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
+<!--     <a href="https://www.linkedin.com/in/evertonsavio/" target="blank"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/linkedin.svg" width="100" height="30" /></a> -->
+    <a href="https://twitter.com/iamrhavyx" target="blank"><img alt="Twitter" src="https://raw.githubusercontent.com/havyx/Havyx/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
 </p>
  
   
