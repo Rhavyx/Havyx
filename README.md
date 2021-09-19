@@ -1,8 +1,3 @@
-
-<div>
-<h3>Everton Sávio</h3>
-<p>website: <a href="https:/evertonsavio.dev" target="blank">evertonsavio.dev</a></p>
-</div>
 <hr \>
 <p align="center">
    <i>"You can never understand everything. But, you should push yourself to understand the system"</i>
