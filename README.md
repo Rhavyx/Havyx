@@ -7,9 +7,11 @@
  <hr \>
 <br>
 
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonsavio&hide=jupyter%20notebook,html,css,tex&theme=blue-green" alt="img"/>
 </div>
+-->
 
 <br>
 
